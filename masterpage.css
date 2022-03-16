@@ -2,11 +2,32 @@ body{
 }
     h1 {
         display: block;
-        font-size: 2em;
+        font-size: 3em;
+        font-style: italic;
+        text-align: left;
+        color: bisque;
        
-        font-weight: bold;
+        font-weight:bolder;
        
     }
+    
+    
+    h3{
+        font-style: italic;
+        text-align: center;
+        color: aliceblue;
+    }
+    h4{
+        color: aliceblue;
+        text-align: right;
+    }
 .fa-solid {
-    color: blue;
+    color:white;
 }
+.header{
+    align-items: left;
+}
+.container1{
+    background-color: black;
+}
+
