@@ -5,6 +5,10 @@ body{
     
     margin-top: 80px;
     margin-left: 120px;
+    outline: solid;
+    height: 240px;
+    width: 300px;
+    outline-color: aliceblue;
    
 }
 
@@ -21,6 +25,7 @@ body{
 .waiting{
     height: 50%;
     margin-left: 600px;
+    margin-top: 80px;
   
    
 }
