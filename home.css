@@ -4,7 +4,7 @@ body{
 .aboutus{
     
     margin-top: 80px;
-    margin-left: 120px;
+    margin-left: 250px;
     outline: solid;
     height: 240px;
     width: 300px;
@@ -14,18 +14,58 @@ body{
 
 .familydis{
   height: 400px;
-  width: 20%;
+  width: 45%;
   outline-width: 3px;
   outline-style: solid;
   outline-color:aliceblue;
-  margin-left: 120px;
+  margin-left: 250px;
   text-align: left;
   font-size: medium;
 }
 .waiting{
-    height: 50%;
-    margin-left: 600px;
-    margin-top: 80px;
+    
+    width: 400px;
+   
+    height: 350px;
+   margin-right:500px;
+   
+   
   
+   margin-top: 50px;
    
 }
+.info{
+   
+    width: auto;
+    overflow: hidden;
+    
+    height: 800px;
+    width: 600px;
+ 
+     margin-left: 10px;
+
+} 
+.room{
+    width: 400px;
+   
+    height: 300px;
+   margin-right:500px;
+   
+   margin-top: 5px;
+   
+}
+ .restinfo{
+     float: right;
+     outline: solid;
+     height: 700px;
+     width: 400px;
+     margin-top: 80px;
+     margin-right: 500px;
+     outline-color: aliceblue;
+ } 
+    
+ 
+
+
+    
+
