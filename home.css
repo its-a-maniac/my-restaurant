@@ -1,0 +1,26 @@
+body{
+    font-family:  "roboto_slablight", serif;
+}
+.aboutus{
+    
+    margin-top: 80px;
+    margin-left: 120px;
+   
+}
+
+.familydis{
+  height: 400px;
+  width: 20%;
+  outline-width: 3px;
+  outline-style: solid;
+  outline-color:aliceblue;
+  margin-left: 120px;
+  text-align: left;
+  font-size: medium;
+}
+.waiting{
+    height: 50%;
+    margin-left: 600px;
+  
+   
+}
