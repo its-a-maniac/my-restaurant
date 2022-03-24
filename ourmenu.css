@@ -1,0 +1,26 @@
+.heading{
+    width: 100%;
+    height:100px ;
+    margin-top: 10px;
+    margin-left: 2px;
+    font-style: oblique;
+    font-size: larger;
+    text-align: center;
+    background-color:antiquewhite;
+}
+.menu{
+   height: 600px;
+   width:600px;
+   
+   margin-top: 50px;
+   margin-left: 500px;
+   
+}
+.menu img {
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+}
+
+.menu:hover img {
+    transform: scale(1.5);
+}

@@ -1,0 +1,50 @@
+
+.body{
+    
+
+}
+.heading{
+    width: 100%;
+    height:100px ;
+    margin-top: 10px;
+    margin-left: 2px;
+   
+    text-align: center;
+    background-color: grey;
+
+
+}
+.seat{
+    position: relative;
+}
+.hall-bk{
+    margin-left: 200px;
+    margin-top: 10px;
+   
+    float: left;
+    position: relative;
+    
+}
+.nonac-hall-bk{
+    float:right ;
+    margin-right: 200px;
+    margin-top: 10px;
+    position: relative;
+   
+}
+.table-booking{
+  margin-top: 400px;
+  margin-left: 0ch;
+  float:left;
+  position: relative;
+}
+.seat-2{
+    margin-top: 310px;
+    margin-left: 200px;
+    position: relative;
+}
+.bartender-seat{
+    float :right;
+    margin-right: 200px;
+    position: relative;
+}

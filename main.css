@@ -16,7 +16,7 @@ body{ font-family:Arial, Helvetica, sans-serif; margin:0px auto !important;}
 .header-right ul{ list-style:none; padding:0px;}
 .header-right ul li{ padding:5px 15px; cursor:pointer; margin:0px 10px; float:left; border:1px solid black; border-radius:2px;}
 .header-right ul li:hover{border:1px solid #7db549; background:#7db549;}
-.header-right ul li a{ font-size:14px; ; text-decoration:none;}
+.header-right ul li a{ font-size:14px;  text-decoration:none;}
 .header-right ul li a:hover{ color:#FFF;}
 .white{ color:#FFF; text-decoration:none;}
 .white a{ color:#FFF; text-decoration:none;}
