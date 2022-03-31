@@ -1,0 +1,39 @@
+body{margin:0px auto
+   
+}
+.map{
+    height: 400px;
+    width:350px;
+    background-color: aliceblue;
+    margin-top: 250px;
+    margin-left: 100px;
+    float:left;
+    box-shadow: 10px 10px 10px 0;
+    position: relative;
+    
+  
+  
+   
+}
+.contact{
+    height: 400px;
+    width:350px;
+    background-color: aliceblue;
+    margin-top: 250px;
+    float:left;
+    margin-left: 200px;
+    box-shadow: 10px 10px 10px 0;
+    position:relative;
+    
+
+}   
+.chat{
+    height: 400px;
+    width:350px;
+    background-color: aliceblue;
+    margin-top: 250px;
+    float:right;
+    margin-right:150px;
+    box-shadow: 10px 10px 10px 0;
+    position:static;
+}
