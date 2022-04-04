@@ -1,39 +1,24 @@
-body{margin:0px auto
+body{margin: auto;
    
 }
-.map{
+.main{
     height: 400px;
-    width:350px;
+    width:20.5%;
     background-color: aliceblue;
-    margin-top: 250px;
-    margin-left: 100px;
+    margin-top: 12%;
+     margin-left: 10%;
     float:left;
     box-shadow: 10px 10px 10px 0;
-    position: relative;
+    overflow: hidden
+    
     
   
   
    
 }
-.contact{
-    height: 400px;
-    width:350px;
-    background-color: aliceblue;
-    margin-top: 250px;
-    float:left;
-    margin-left: 200px;
-    box-shadow: 10px 10px 10px 0;
-    position:relative;
-    
 
-}   
-.chat{
-    height: 400px;
-    width:350px;
-    background-color: aliceblue;
-    margin-top: 250px;
-    float:right;
-    margin-right:150px;
-    box-shadow: 10px 10px 10px 0;
-    position:static;
+.parent{
+    position: relative;
+    margin: auto;
+   
 }
